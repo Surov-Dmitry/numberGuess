@@ -1,0 +1,16 @@
+C:\Step\C#\WinForms\dz\28.09.2020\NumberGuess\NumberGuess\bin\Debug\netcoreapp3.1\NumberGuess.exe
+C:\Step\C#\WinForms\dz\28.09.2020\NumberGuess\NumberGuess\bin\Debug\netcoreapp3.1\NumberGuess.deps.json
+C:\Step\C#\WinForms\dz\28.09.2020\NumberGuess\NumberGuess\bin\Debug\netcoreapp3.1\NumberGuess.runtimeconfig.json
+C:\Step\C#\WinForms\dz\28.09.2020\NumberGuess\NumberGuess\bin\Debug\netcoreapp3.1\NumberGuess.runtimeconfig.dev.json
+C:\Step\C#\WinForms\dz\28.09.2020\NumberGuess\NumberGuess\bin\Debug\netcoreapp3.1\NumberGuess.dll
+C:\Step\C#\WinForms\dz\28.09.2020\NumberGuess\NumberGuess\bin\Debug\netcoreapp3.1\NumberGuess.pdb
+C:\Step\C#\WinForms\dz\28.09.2020\NumberGuess\NumberGuess\obj\Debug\netcoreapp3.1\NumberGuess.csprojAssemblyReference.cache
+C:\Step\C#\WinForms\dz\28.09.2020\NumberGuess\NumberGuess\obj\Debug\netcoreapp3.1\NumberGuess.Form1.resources
+C:\Step\C#\WinForms\dz\28.09.2020\NumberGuess\NumberGuess\obj\Debug\netcoreapp3.1\NumberGuess.csproj.GenerateResource.cache
+C:\Step\C#\WinForms\dz\28.09.2020\NumberGuess\NumberGuess\obj\Debug\netcoreapp3.1\NumberGuess.AssemblyInfoInputs.cache
+C:\Step\C#\WinForms\dz\28.09.2020\NumberGuess\NumberGuess\obj\Debug\netcoreapp3.1\NumberGuess.AssemblyInfo.cs
+C:\Step\C#\WinForms\dz\28.09.2020\NumberGuess\NumberGuess\obj\Debug\netcoreapp3.1\NumberGuess.csproj.CoreCompileInputs.cache
+C:\Step\C#\WinForms\dz\28.09.2020\NumberGuess\NumberGuess\obj\Debug\netcoreapp3.1\NumberGuess.dll
+C:\Step\C#\WinForms\dz\28.09.2020\NumberGuess\NumberGuess\obj\Debug\netcoreapp3.1\NumberGuess.pdb
+C:\Step\C#\WinForms\dz\28.09.2020\NumberGuess\NumberGuess\obj\Debug\netcoreapp3.1\NumberGuess.genruntimeconfig.cache
+C:\Step\C#\WinForms\dz\28.09.2020\NumberGuess\NumberGuess\obj\Debug\netcoreapp3.1\NumberGuess.Properties.Resources.resources
